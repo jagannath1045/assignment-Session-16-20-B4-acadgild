@@ -1,4 +1,4 @@
-#task5
+#task 5 - Assignment session 16-20 Task 5 
 wle<- Example_WearableComputing_weight_lifting_exercises_biceps_curl_variations_task17
 wle<-wle[,-c(2:6,11:35,49:58,68:82,86:100,102:111,124:138,140:149)]
 library(psych)
