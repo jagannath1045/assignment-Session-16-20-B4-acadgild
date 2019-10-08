@@ -1,6 +1,6 @@
 #task 4 (session 16-20) assignment 
 
-#### trial 2 github 
+#### trial 2 
 #------------------------Assignment 19 -----------------------------
 
 # a. Create classification model using different classifiers
