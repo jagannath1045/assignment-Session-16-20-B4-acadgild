@@ -1,4 +1,7 @@
-# assignment 16-20 task 2 & 3(line 142 )
+# assignment 16-20 
+#task 2 (line 8 to 141)
+#Task 3(line 142 )
+
 #task 2
 
 weight_lifting_exercises<- weight_lifting
