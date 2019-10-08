@@ -1,4 +1,4 @@
-#task 19 trial 1
+#task 4 - ( session 16-20) trial 1
 #nn_classifiers
 install.packages
 library(Matrix)
