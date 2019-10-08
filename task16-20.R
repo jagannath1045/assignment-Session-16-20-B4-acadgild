@@ -19,8 +19,7 @@ predict<- predict(model, type = "response")
 head(predict, 5)
 
 
-##### above is from nirlipta's file ..  below is some one from github
-#------------------------Assignment 17 -----------------------------
+#------------------------Assignment 17 Task 2-----------------------------
 # Weight Lifting Exercise Analysis
 
 # Import Data Set
@@ -138,7 +137,8 @@ ggplot(data = as.data.frame(conf), mapping = aes(x = predicted,y = Var1)) +
 
 
 
-#task18....... task 3 ...
+#task18....... task 3 ......
+
 View(weight_lifting_exercises)
 str(weight_lifting_exercises)
 weight_lifting_exercises<-data.frame(weight_lifting_exercises[,-c(11:35,49:58,68:82,86:100,102:111,124:138,140:149)])
