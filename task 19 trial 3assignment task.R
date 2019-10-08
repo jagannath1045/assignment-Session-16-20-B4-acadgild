@@ -1,3 +1,5 @@
+### task 4 ( assignment session 16-20) trial 3
+
 abcd <- weight_lifting 
 View(abcd)           
 dim(abcd)
